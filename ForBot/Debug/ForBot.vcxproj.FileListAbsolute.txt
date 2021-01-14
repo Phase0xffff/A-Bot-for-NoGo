@@ -1,0 +1,2 @@
+F:\代码\MyNoGo\ForBot\Debug\ForBot.exe
+F:\代码\MyNoGo\ForBot\Debug\ForBot.pdb
